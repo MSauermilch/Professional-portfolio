@@ -1,0 +1,100 @@
+#body {
+    background-image: url( "../images/Beach-Sunset-B.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: ;
+    height: 100%;
+}
+
+#container {
+    margin: 30px;
+}
+
+.head, .foot { 
+    background-color: blue;
+    font-family:  'Lobster', cursive;
+    border: solid red 3px;
+    border-radius: 8px;
+    height: 50px;
+    padding: 2px;
+    margin: auto;
+}
+
+.content{
+    height: 450px;
+    border: solid red 3px;
+    border-radius: 8px;
+}
+
+p {
+    color: white;
+    padding: 5px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 120%;
+}
+
+.p1 {
+    color: white;
+    padding: 5px;
+    font-weight: 600;
+    font-size: 56px;
+}
+
+.my-header {
+    background-color: blue;
+    font-family:  'Lobster', cursive;
+    border: solid red 3px;
+    border-radius: 8px;
+    height: 100px;
+}
+
+.my-row{
+    border-radius: 8px;
+    border:solid red 3px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.my-col{
+    padding: 5px;
+    margin: 5px;
+}
+
+#photocontainer{
+    border: solid red 3px;
+    border-radius: 8px;
+    padding:50px;
+    margin: 5px;
+    margin-left: 5px;
+}
+
+
+/* Contact */
+
+#form{
+    height: 350px;
+}
+
+.input-group{
+    margin: 10px;
+}
+
+.form-control{
+    height: 100%;
+    width: 00%;
+}
+
+/* Portfolio */
+.thumb {
+    border: solid red 3px;
+    border-radius: 8px;
+    height: 98%;
+    padding: 40px;
+    margin: 5px;
+}
+
+.carousel-item {
+    max-width: 300px;
+    height: 350px;
+}
